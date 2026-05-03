@@ -4,7 +4,6 @@
 //
 //  Created by Koki Ibukuro on 2019/11/05.
 //  Copyright © 2019 Koki Ibukuro. All rights reserved.
-//
 
 
 import CoreML
